@@ -28,6 +28,7 @@ The hostel room comes with only:
 
 You must bring (or buy locally):
 
+
 Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks, stationary, essentials
 
 *Bed & Room Essentials:*
@@ -156,7 +157,9 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 ---
 
 ## 📚 Academics
-
+College starts at 8:45 and ends by 5:15pm 
+* 1st year u have average of 6 class hours per day
+![Timetable](https://github.com/user-attachments/assets/1eca6ca7-d44f-4154-b6b2-0c7dca55f1c5)
 * FOR B.Tech students you required Khaki uniform for the 2 hr labs  Civil, Mechanical, Chemistry, Physics,Electrical, Electronics
 * There are shops here who come and sell in year starting but if you want you can get it stitched.
 * Pictures are attached for reference

@@ -1,6 +1,6 @@
 ---
 
-# 🎓 Sastra (Spoonfeeding) 101
+# 🎓 Spoonfeeding 101
 
 This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.* Images of people were generated using AI. 
 Please read till the end. 🙂

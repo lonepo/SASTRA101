@@ -2,7 +2,7 @@
 
 # 🎓 Sastra 101
 
-This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.*
+This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.* Images of people were generated using AI.
 
 ---
 
@@ -142,6 +142,8 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 ---
 
 ## 🗺 Campus Map – Color Code
+![Campus_map_Old](https://github.com/user-attachments/assets/24ddedc3-81ee-41a7-a2c2-9c2a9b07e12c)
+
 
 | Color  | Building        | Dept/Use                      |
 | ------ | --------------- | ----------------------------- |
@@ -199,6 +201,8 @@ Subjects with higher credits (e.g. 4 credits) carry more weight in CGPA.
 Focus on scoring S/A+/A in these subjects.
 
 ---
+###1st semester subjects
+![1st semester sujects](https://github.com/user-attachments/assets/2acab82b-7c73-4144-b79e-aa66cd94278f)
 
 ## 🪑 Class Etiquette & Attendance Rules
 

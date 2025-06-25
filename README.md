@@ -63,8 +63,13 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 * Allotment is *random*
 * You can choose only *single or triple sharing*
   * Boys: likely Vinaya block
+  * ![Boys_Hostel_3in1](https://github.com/user-attachments/assets/f7b2bc5c-5655-4f56-a979-d10a0eb586ff)
+
 * You can chose *4 in 1 or 5 in 1*
   * Girls: likely SPS or RLV for law
+  * ![Girls_Hostel_4in1_1](https://github.com/user-attachments/assets/49b087da-e0d9-4bbd-9593-d2db6adc8947)
+  * 
+
 
 ### 🛒 Buying After Arrival
 
@@ -162,6 +167,12 @@ College starts at 8:45 and ends by 5:15pm
 ![Timetable](https://github.com/user-attachments/assets/1eca6ca7-d44f-4154-b6b2-0c7dca55f1c5)
 * FOR B.Tech students you required Khaki uniform for the 2 hr labs  Civil, Mechanical, Chemistry, Physics,Electrical, Electronics
 * There are shops here who come and sell in year starting but if you want you can get it stitched.
+![Boys_Khaki](https://github.com/user-attachments/assets/819f80ec-6600-4dec-93ff-49ebd9438420)
+![Girls_Khaki](https://github.com/user-attachments/assets/baa836b9-6f60-45ee-9581-6718c15b0483)
+
+
+
+* Black leather shoes are also compulsory for these labs which are also available in campus.
 * Pictures are attached for reference
 
 ### 🧑‍🏫 Faculty & Workload

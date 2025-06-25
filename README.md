@@ -76,6 +76,7 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 * Buckets, bedding, etc. can be bought outside campus or at *Gurunath stores*
 * You are *not restricted* to essentials only — bring whatever makes your stay comfortable- notebooks are available in shops need not bring from home.
+* Lab Manuals and records can be purchased at Gurunath and Vani Vihar(as per faculty instruction)
 
 ---
 
@@ -94,8 +95,9 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 ### 🥛 Milk Timings
 
-* Morning: *6:00 AM – 8:00 AM*
+* Morning: *6:30 AM – 8:30 AM*
 * Evening: *5:30 PM – 6:30 PM*
+* Night:   *9:00 PM - Till it empties*
 
 ---
 

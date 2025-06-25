@@ -2,7 +2,8 @@
 
 # 🎓 Sastra (Spoonfeeding) 101
 
-This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.* Images of people were generated using AI.
+This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.* Images of people were generated using AI. 
+Please read till the end. 🙂
 
 ---
 
@@ -409,7 +410,6 @@ Focus on scoring S/A+/A in these subjects.
  * Register at TIFAC Core/Manisha Building by giving index card or register number and mail.
 * *Gaming and Social media sites/apps are blocked* on hostel Wi-Fi
 * OTT, YouTube, Discord — mostly work fine
-* 
 
 ---
 ## 🚀 Entrepreneurship & Startups
@@ -453,4 +453,5 @@ You may be held responsible if it goes missing again.
 ---
 
 If you want to add more points or suggest an edit. Submit a pull request and we will merge it.
-I would like to thank all people who helped me make this🙏 . If it was useful please star this project
+I would like to thank all people who helped me make this🙏 . If it was useful please star this project.
+Made with ❤️ by Gautam 

@@ -204,7 +204,7 @@ Subjects with higher credits (e.g. 4 credits) carry more weight in CGPA.
 Focus on scoring S/A+/A in these subjects.
 
 ---
-###1st semester subjects
+### 1st semester subjects
 ![1st semester sujects](https://github.com/user-attachments/assets/2acab82b-7c73-4144-b79e-aa66cd94278f)
 
 ## 🪑 Class Etiquette & Attendance Rules

@@ -6,6 +6,7 @@ This is **not* an official document. Everything here is purely based on student 
 Please read till the end. 🙂
 
 ---
+College reopening August 1 2025(Tentative)
 
 ## 🧾 What to Bring (Checklist)
 

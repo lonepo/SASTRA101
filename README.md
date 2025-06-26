@@ -306,7 +306,8 @@ Focus on scoring S/A+/A in these subjects.
 * *Dinner:* 7:00–8:15 PM
 
 ### 🍛 Food Quality
-
+* Server a strict vegetarian diet.
+* No non veg allowed in hostels. Day scholars can bring for lunch. dont take it to hostel
 * Varies — some dishes good, some okay, some avoidable
 * You'll *always find something edible*
 * Occasionally, *à la carte stalls* sell dosas, noodles, etc. (pay separately)

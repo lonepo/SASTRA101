@@ -108,6 +108,7 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 * First two weeks: *manual attendance* in hostel
 * After that:
+![Dresscode](https://github.com/user-attachments/assets/01efa855-e852-4fad-a1d0-841ca934a527)
 
   * *Boys:* Register between *8:30–9:30 PM*
     * Formals for classes.

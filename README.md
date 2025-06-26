@@ -25,7 +25,7 @@ Please read till the end. 🙂
 
 The hostel room comes with only:
 
-* *Cot, **Chair, **Table, and **Cupboard*
+* *Cot, Chair, Table, and Cupboard*
 
 You must bring (or buy locally):
 
@@ -456,4 +456,4 @@ You may be held responsible if it goes missing again.
 
 If you want to add more points or suggest an edit. Submit a pull request and we will merge it.
 I would like to thank all people who helped me make this🙏 . If it was useful please star this project.
-Made with ❤️ by Gautam 
+Made with ❤️ by Gautam and HOLA FRESHERS group

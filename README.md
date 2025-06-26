@@ -91,7 +91,7 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 ### 🚿 Hot Water & Hygiene
 
-* Available in common restrooms
+* Available in common restrooms(1st year hostels have only common restrooms)
 * Bring your own *bucket, mug, and toiletries*
 
 ### 🥛 Milk Timings

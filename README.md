@@ -203,7 +203,8 @@ College starts at 8:45 and ends by 5:15pm
 Formula: Σ(Credit × Grade Point) / Total Credits of the Semester
 Subjects with higher credits (e.g. 4 credits) carry more weight in CGPA.
 Focus on scoring S/A+/A in these subjects.
-This website gives you a calculator  to predict and calculate grades [Sastra4you](https://sastra4you.pythonanywhere.com/)
+
+* This website gives you a calculator  to predict and calculate grades [Sastra4you](https://sastra4you.pythonanywhere.com/)
 
 ---
 ### 1st semester subjects

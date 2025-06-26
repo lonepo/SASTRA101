@@ -165,6 +165,14 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 | —      | Southern Canopy | Food + drinks (Shanmuga Mess) |
 | —      | SAC             | Mess + Gym above              |
 | —      | Temple          | Prayers                       |
+
+### ID card color code
+* Blue: Vinaya hostelers(boys)
+* Pink: Hosteler girls
+* Grey: Boys inside  hostel
+* Dark blue: Faculty
+* Orange: Research Scholars
+* Yellow: Polytechnic 
 ---
 
 ## 📚 Academics
@@ -307,6 +315,8 @@ Focus on scoring S/A+/A in these subjects.
 * *Lunch:* 12:00–1:15 PM(on working days for boys at SAC and girls in their hostels)
 * *Snacks:* 4:30–5:00 PM
 * *Dinner:* 7:00–8:15 PM
+* Strictly do not eat food from other mess or if you are day scholar dont eat in mess you will be severely punished
+* 
 
 ### 🍛 Food Quality
 * Server a strict vegetarian diet.

@@ -110,6 +110,10 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 * After that:
 
   * *Boys:* Register between *8:30–9:30 PM*
+    * Formals for classes.
+    * Enter campus only with full pant and shirt
+    * can roam around inside campus with shorts and shirt(not around temple)
+    * Hostels you are free to wear anything
   * *Girls:* *5:40* to *6:30 PM*
     * If for roaming within campus on regular college day 
     * mornings no problem 

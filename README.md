@@ -6,7 +6,10 @@ This is **not* an official document. Everything here is purely based on student 
 Please read till the end. 🙂
 
 ---
-College reopening August 1 2025(Tentative)
+College reopening B.Tech August 1 2025
+
+## Academic Calendar
+[MC_Academic_Calendar_2025-26.pdf](https://github.com/user-attachments/files/21436501/MC_Academic_Calendar_2025-26.pdf)
 
 ## 🧾 What to Bring (Checklist)
 
@@ -31,7 +34,7 @@ The hostel room comes with only:
 You must bring (or buy locally):
 
 
-Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks, stationary, essentials
+Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) where you can get snacks, stationary, essentials
 
 *Bed & Room Essentials:*
 
@@ -64,11 +67,11 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 * Allotment is *random*
 * You can choose only *single or triple sharing*
-  * Boys: likely Vinaya block
+  * Boys: 
   * ![Boys_Hostel_3in1](https://github.com/user-attachments/assets/f7b2bc5c-5655-4f56-a979-d10a0eb586ff)
 
 * You can chose *4 in 1 or 5 in 1*
-  * Girls: likely SPS or RLV for law
+  * Girls: SPS or RLV 
   * ![Girls_Hostel_4in1_1](https://github.com/user-attachments/assets/49b087da-e0d9-4bbd-9593-d2db6adc8947)
   * 
 
@@ -142,7 +145,7 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
    
 * Leave applications:
 
-  * First two: use [Smart Hostel](http://biometric.sastra.edu)
+  * First two: use [Student Web Interface](https://webstream.sastra.edu/sastrapwi/)
   * Further leaves: contact *DOSA* directly
   * For *Girls* going home
     * Letter
@@ -176,6 +179,7 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 | —      | Temple          | Prayers                       |
 
 ### ID card color code
+* Green: Day Scholars
 * Blue: Vinaya hostelers(boys)
 * Pink: Hosteler girls
 * Grey: Boys inside  hostel
@@ -472,7 +476,7 @@ You may be held responsible if it goes missing again.
 * Attend *all orientations* — many people miss useful info
 * College life is *what you make of it* — you're free to study, do projects, chill with friends, or balance it all
 * *Set your boundaries early* and stick to them
-* Do not damage or encourage damging college property you will pay fine even if others damage.
+* Do not damage or encourage damaging college property, you will pay fine even if others damage.
 * Be considerate to the environment and keep campus clean.
 
 ---

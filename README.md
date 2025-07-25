@@ -108,7 +108,9 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 
 * First two weeks: *manual attendance* in hostel
 * After that:
-![Dresscode](https://github.com/user-attachments/assets/01efa855-e852-4fad-a1d0-841ca934a527)
+
+![Updated_Dresscode](https://github.com/user-attachments/assets/88f7a50b-b472-43dd-9766-b2e9b175427e)
+
 
   * *Boys:* Register between *8:30–9:30 PM*
     * Formals for classes.
@@ -151,7 +153,9 @@ Shops are available in Vinaya(Amman stores) and in SPS where you can get snacks,
 ---
 
 ## 🗺 Campus Map – Color Code
-![Campus_map_Old](https://github.com/user-attachments/assets/24ddedc3-81ee-41a7-a2c2-9c2a9b07e12c)
+
+<img width="1695" height="902" alt="image" src="https://github.com/user-attachments/assets/2d5bfe48-5978-41b6-b1d7-a7b896e6adbf" />
+
 
 
 | Color  | Building        | Dept/Use                      |

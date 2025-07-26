@@ -157,26 +157,47 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 
 ## 🗺 Campus Map – Color Code
 
-<img width="1695" height="902" alt="image" src="https://github.com/user-attachments/assets/2d5bfe48-5978-41b6-b1d7-a7b896e6adbf" />
+<img width="1792" height="947" alt="image" src="https://github.com/user-attachments/assets/f624b75d-6e92-452a-8bf4-9d537517336d" />
 
 
-
+(goes zig zag up to down back up and down)
 | Color  | Building        | Dept/Use                      |
 | ------ | --------------- | ----------------------------- |
-| Red    | CNK             | Law                           |
-| Pink   | NMV             | Civil                         |
-| Orange | JVC             | Biotech, Chemical             |
-| Purple | VV              | Electrical, Electronics       |
-| Blue   | VKJ             | Mechanical (1st-year classes) |
-| Cyan   | SASHE           | Humanities (1st-year classes) |
-| Yellow | TDC             | Tech Dev Center               |
-| Black  | SoC             | School of Computing           |
-| Green  | LTC             | CS Classrooms                 |
-| —      | Library         | Between SoC and LTC           |
-| —      | Krishna Canteen | Near VV/VKJ                   |
-| —      | Southern Canopy | Food + drinks (Shanmuga Mess) |
-| —      | SAC             | Mess + Gym above              |
-| —      | Temple          | Prayers                       |
+| Red    | Entrance   | To Enter/Exit Campus  |
+| Light Green   | CNK             | Law|
+| --| Sat Vihar| Polytechnic CLassrooms|
+| Below LGreen| Ahalya| Boys hostel |
+| Light Brown| Arundhati| Boys hostel|
+| Below Polytechnic     | Temple          | Prayers                       |
+|  Opposite to temple |Registrar |--|
+| Dark green| Anasuya, SO, SA| Boys hostel|
+| Blue | SV | Boys Hostel|
+| --| Gnana Vihar| CUB, Orders collection, Dean office(FF)|
+| --| Cricket ground|Orientation Area|
+| --  | NMV  (Nirman Vihar)           | Civil |
+| --| Vidya Vihar |School of Education|
+| --| Old Canopy|--|
+| White    | SAC             | Mess + Gym above              |
+| -- | JVC/JNC (Jiva/Jana Chaitanya)   | Biotech, Chemical             |
+|Black | Vignana Vihar | Gurunath Stores, Abirami Xerox, Medical Clinic, Post office|
+| Above Football field     | Southern Canopy | Food + drinks (Shanmuga Mess) |
+| --| Chitt Vihar| School of Management|
+| --| Football field |--|
+| -- | VV  (Vidyut Vihar)     | Electrical, Electronics       |
+| B/w VV and Yellow  | Krishna Canteen | Near VV/VKJ                   |
+| --| Tifac Core | Wifi registration and old SOC|
+| Cyan  | SoC             | School of Computing           |
+| above Brown      | Saraswati Sadan (Library)         | Between SoC and LTC           |
+| Brown  | LTC             | CS Classrooms|
+| Yellow   | VKJ    (Viswakarma Joth)         | Mechanical (1st-year classes) |
+| B/w Maruti and Brown  | SASHE           | Humanities (1st-year classes) |
+| B/w Cyan and Purple | TDC  (Technology Development Centre)           | Tech Dev Center               |
+| Purple | Mega Mess| Annex Girls hostel |
+| Pink | Mega hostel | Girls|
+|Light green| Anusandhan Kendriya 1,2,3,4 | Research Facilities|
+| Pale Yellow | SPS/RLV| First year girls hostel|
+
+ 
 
 ### ID card color code
 * Green: Day Scholars

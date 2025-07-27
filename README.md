@@ -1,6 +1,6 @@
 ---
 
-# 🎓 Spoonfeeding 101
+# 🎓 SASTRA 101
 
 This is **not* an official document. Everything here is purely based on student experiences and subject to change. Please excuse any mistakes.* Images of people were generated using AI. 
 Please read till the end. 🙂
@@ -55,7 +55,7 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 * Tiffin box (optional)
 
 *Stationery & Misc:*
-
+* 991 ms calculator
 * Stapler & pins, pen stand, tissue, nail cutter, soap box
 * Wallet, tongue cleaner, laundry bag, cloth clips (10), notebook/pens
 
@@ -163,39 +163,40 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 (goes zig zag up to down back up and down)
 | Color  | Building        | Dept/Use                      |
 | ------ | --------------- | ----------------------------- |
-| Red    | Entrance   | To Enter/Exit Campus  |
-| Light Green   | CNK             | Law|
-| --| Sat Vihar| Polytechnic CLassrooms|
-| Below LGreen| Ahalya| Boys hostel |
-| Light Brown| Arundhati| Boys hostel|
-| Below Polytechnic     | Temple          | Prayers                       |
-|  Opposite to temple |Registrar |--|
-| Dark green| Anasuya, SO, SA| Boys hostel|
-| Blue | SV | Boys Hostel|
-| --| Gnana Vihar| CUB, Orders collection, Dean office(FF)|
-| --| Cricket ground|Orientation Area|
-| --  | NMV  (Nirman Vihar)           | Civil |
-| --| Vidya Vihar |School of Education|
-| --| Old Canopy|--|
-| White    | SAC             | Mess + Gym above              |
-| -- | JVC/JNC (Jiva/Jana Chaitanya)   | Biotech, Chemical             |
-|Black | Vignana Vihar | Gurunath Stores, Abirami Xerox, Medical Clinic, Post office|
-| Above Football field     | Southern Canopy | Food + drinks (Shanmuga Mess) |
-| --| Chitt Vihar| School of Management|
-| --| Football field |--|
-| -- | VV  (Vidyut Vihar)     | Electrical, Electronics       |
-| B/w VV and Yellow  | Krishna Canteen | Near VV/VKJ                   |
-| --| Tifac Core | Wifi registration and old SOC|
-| Cyan  | SoC             | School of Computing           |
-| above Brown      | Saraswati Sadan (Library)         | Between SoC and LTC           |
-| Brown  | LTC             | CS Classrooms|
-| Yellow   | VKJ    (Viswakarma Joth)         | Mechanical (1st-year classes) |
-| B/w Maruti and Brown  | SASHE           | Humanities (1st-year classes) |
-| B/w Cyan and Purple | TDC  (Technology Development Centre)           | Tech Dev Center               |
-| Purple | Mega Mess| Annex Girls hostel |
-| Pink | Mega hostel | Girls|
-|Light green| Anusandhan Kendriya 1,2,3,4 | Research Facilities|
-| Pale Yellow | SPS/RLV| First year girls hostel|
+| ![Red](https://img.shields.io/badge/Red-Red-red) | Entrance   | To Enter/Exit Campus  |
+| ![Light Green](https://img.shields.io/badge/Light%20Green-Light%20Green-lightgreen) | CNK             | Law |
+| -- | Sat Vihar | Polytechnic CLassrooms |
+| ![Below Light Green](https://img.shields.io/badge/Below%20%2F%20Light%20Green-Below%20%2F%20Light%20Green-lightgreen) | Ahalya | Boys hostel |
+| ![Light Brown](https://img.shields.io/badge/Light%20Brown-Light%20Brown-sandybrown) | Arundhati | Boys hostel |
+| Below Polytechnic | Temple | Prayers |
+| Opposite to temple | Registrar | -- |
+| ![Dark Green](https://img.shields.io/badge/Dark%20Green-Dark%20Green-darkgreen) | Anasuya, SO, SA | Boys hostel |
+| ![Blue](https://img.shields.io/badge/Blue-Blue-blue) | SV | Boys Hostel |
+| -- | Gnana Vihar | CUB, Orders collection, Dean office(FF) |
+| -- | Cricket ground | Orientation Area |
+| -- | NMV (Nirman Vihar) | Civil |
+| -- | Vidya Vihar | School of Education |
+| -- | Old Canopy | -- |
+| ![White](https://img.shields.io/badge/White-White-white) | SAC | Mess + Gym above |
+| -- | JVC/JNC (Jiva/Jana Chaitanya) | Biotech, Chemical |
+| ![Black](https://img.shields.io/badge/Black-Black-black) | Vignana Vihar | Gurunath Stores, Abirami Xerox, Medical Clinic, Post office |
+| Above Football field | Southern Canopy | Food + drinks (Shanmuga Mess) |
+| -- | Chitt Vihar | School of Management |
+| -- | Football field | -- |
+| -- | VV (Vidyut Vihar) | Electrical, Electronics |
+| ![B/w VV and Yellow](https://img.shields.io/badge/B%2Fw%20VV%20and%20Yellow-B%2Fw%20VV%20and%20Yellow-goldenrod) | Krishna Canteen | Near VV/VKJ |
+| -- | Tifac Core | Wifi registration and old SOC |
+| ![Cyan](https://img.shields.io/badge/Cyan-Cyan-cyan) | SoC | School of Computing |
+| ![Above Brown](https://img.shields.io/badge/Above%20%2F%20Brown-Above%20%2F%20Brown-sienna) | Saraswati Sadan (Library) | Between SoC and LTC |
+| ![Brown](https://img.shields.io/badge/Brown-Brown-brown) | LTC | CS Classrooms |
+| ![Yellow](https://img.shields.io/badge/Yellow-Yellow-yellow) | VKJ (Viswakarma Joth) | Mechanical (1st-year classes) |
+| ![B/w Maruti and Brown](https://img.shields.io/badge/B%2Fw%20Maruti%20and%20Brown-B%2Fw%20Maruti%20and%20Brown-peru) | SASHE | Humanities (1st-year classes) |
+| ![B/w Cyan and Purple](https://img.shields.io/badge/B%2Fw%20Cyan%20and%20Purple-B%2Fw%20Cyan%20and%20Purple-mediumorchid) | TDC (Technology Development Centre) | Tech Dev Center |
+| ![Purple](https://img.shields.io/badge/Purple-Purple-purple) | Mega Mess | Annex Girls hostel |
+| ![Pink](https://img.shields.io/badge/Pink-Pink-pink) | Mega hostel | Girls |
+| ![Light Green](https://img.shields.io/badge/Light%20Green-Light%20Green-lightgreen) | Anusandhan Kendriya 1,2,3,4 | Research Facilities |
+| ![Pale Yellow](https://img.shields.io/badge/Pale%20Yellow-Pale%20Yellow-%23ffffcc) | SPS/RLV | First year girls hostel |
+
 
  
 

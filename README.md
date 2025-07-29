@@ -42,6 +42,7 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 * Extension cord (2 plug points per room)
 * Hangers (drying clothes faster)
 * 2–3 locks (1 big for door, 1 small for cupboard)
+* Bed Size 3*6
 
 *Bath & Health:*
 
@@ -78,7 +79,7 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 
 ### 🛒 Buying After Arrival
 
-* Buckets, bedding, etc. can be bought outside campus or at *Gurunath stores*
+* Buckets, bedding(3*6), etc. can be bought outside campus or at *Gurunath stores*
 * You are *not restricted* to essentials only — bring whatever makes your stay comfortable- notebooks are available in shops need not bring from home.
 * Lab Manuals and records can be purchased at Gurunath and Vani Vihar(as per faculty instruction)
 
@@ -198,6 +199,8 @@ Shops are available in Inside Hostels and in SPS and in Gurunath (in campus) whe
 | ![Pale Yellow](https://img.shields.io/badge/Pale%20Yellow-Pale%20Yellow-%23ffffcc) | SPS/RLV | First year girls hostel |
 
 
+use [locate.sastra.edu](https://locate.sastra.edu/) for direct GMAP navigation
+
  
 
 ### ID card color code
@@ -226,7 +229,7 @@ College starts at 8:45 and ends by 5:15pm
 
 ### 🧑‍🏫 Faculty & Workload
 
-* Most faculty are *helpful and approachable* — academic or not
+* Faculty are *helpful and approachable* — academic or not
 * Ask them about *research, **projects, or **career guidance*
 * Generally *light coursework*(per semester):
 
@@ -254,7 +257,7 @@ Focus on scoring S/A+/A in these subjects.
 ![1st semester sujects](https://github.com/user-attachments/assets/2acab82b-7c73-4144-b79e-aa66cd94278f)
 
 ## 🪑 Class Etiquette & Attendance Rules
-
+* Attend all classes.
 * *80% overall attendance required*
 
   * 75–80%: ₹1000 fine + hostel privileges removed
@@ -263,7 +266,6 @@ Focus on scoring S/A+/A in these subjects.
 
   * Avoid walking out mid-class
   * Leave quietly before class starts if needed
-* If the faculty teaches well — *definitely attend*
 
 ---
 
